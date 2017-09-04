@@ -1,0 +1,6 @@
+*~
+*.pyc
+*.so
+build/
+bm3d-gpu/*.cpp
+bm3d-gpu/*.c
